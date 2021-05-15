@@ -13,7 +13,7 @@ import corrugation from '../img/portfolio/corrugation.jpg';
 import crm from '../img/portfolio/crm.jpg';
 import education from '../img/portfolio/education.jpg';
 import manufac from '../img/portfolio/manufac.jpg';
-import mobile from '../img/portfolio/mobile.jpeg';
+import mobile from '../img/portfolio/mobile.jpg';
 import packaging from '../img/portfolio/package.jpg';
 import pos from '../img/portfolio/pos.jpg';
 import stock from '../img/portfolio/stock.jpg';
